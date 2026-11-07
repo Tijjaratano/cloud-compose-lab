@@ -1,4 +1,4 @@
-#Tugas 2 cloud-compose-lab
+#Tugas cloud-compose-lab
 
 Nama : Tijjaratano Kusuma
 <br />
